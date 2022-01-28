@@ -1,3 +1,3 @@
-import { day17 } from "./day17";
+import { day01 } from "./day01";
 
-day17();
+day01();
